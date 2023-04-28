@@ -1,6 +1,8 @@
 ### HI GUYS👋
 
-<h3>I'm starting in the world of programming and I have a thirst for discovering new languages ​​and technologies.</h3>
+<h3>C#, CSS and JavaScript programmer.</h3>
+
+<h3>General knowledge in github, git, database and cybersecurity.</h3>
 
 ![ezgif-5-b2c02ad009](https://user-images.githubusercontent.com/128643672/234692565-a5477b24-3730-45f6-9d92-0e2c4972dff9.gif)
 

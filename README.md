@@ -1,6 +1,6 @@
 ### HI GUYS👋
 
-<h3>C#, CSS and JavaScript programmer.</h3>
+<h3>FUTURE C#, CSS, JavaScript and Python programmer.</h3>
 
 <h3>General knowledge in github, git, database and cybersecurity.</h3>
 

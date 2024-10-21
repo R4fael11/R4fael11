@@ -3,7 +3,7 @@
 <h3>FUTURE PROGRAMMER.</h3>
 
 ![ezgif-5-b2c02ad009](https://user-images.githubusercontent.com/128643672/234692565-a5477b24-3730-45f6-9d92-0e2c4972dff9.gif)
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/Q61LJj43H48z1FIK4X" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/gif-art-old-school-dos-Q61LJj43H48z1FIK4X">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/Q61LJj43H48z1FIK4X" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/gif-art-old-school-dos-Q61LJj43H48z1FIK4X">via GIPHY</a></p>
 
 
 <a href="https://www.youtube.com/channel/UC-4rm2Q43fr5Ek9Jyxi1bFw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>

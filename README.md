@@ -2,9 +2,7 @@
 
 <h3>FUTURE PROGRAMMER.</h3>
 
-![ezgif-5-b2c02ad009](https://user-images.githubusercontent.com/128643672/234692565-a5477b24-3730-45f6-9d92-0e2c4972dff9.gif)
-![gif github-28](https://github.com/user-attachments/assets/c2e6006d-a9d4-48f3-a640-f7c7a5d3bc27)
-
+![giphy](https://github.com/user-attachments/assets/7e94bf05-f1ad-4838-9db3-38f8212aa0ae)
 
 
 <a href="https://www.youtube.com/channel/UC-4rm2Q43fr5Ek9Jyxi1bFw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>

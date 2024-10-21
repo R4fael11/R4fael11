@@ -1,6 +1,6 @@
-### HI GUYS👋
+### HI GUYS!👋
 
-<h3>Hello to All 👋! I am Rafael Henrique, a passionate Computer student at the University of Brasilia (UnB) and a future Full-Stack Engineer.</h3>
+<h3>I am Rafael Henrique, a passionate Computer student at the University of Brasilia (UnB) and a future Full-Stack Engineer.</h3>
 
 ![giphy](https://github.com/user-attachments/assets/7e94bf05-f1ad-4838-9db3-38f8212aa0ae)
 
